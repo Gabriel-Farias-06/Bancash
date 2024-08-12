@@ -1,0 +1,2 @@
+Senha: 
+Bem-vindo administrador, crie a senha de administrador acima e bloqueie esse arquivo para apenas voce poder editar
