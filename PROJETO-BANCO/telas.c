@@ -12,7 +12,7 @@ void MenuPrin()
 
     while (opcPrin != 3) // Loop até que o usuário escolha a opção para sair 
     {
-        printf("            Seja bem vindo ao banco X\n");
+        printf("            Seja bem vindo ao banco Bancash\n\n");
         printf("1- Funcionario\n2- Cliente\n3- Sair do programa\nDigite sua opcao: ");
         scanf("%d", &opcPrin);
         system("cls");
