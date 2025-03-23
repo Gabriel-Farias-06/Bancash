@@ -15,6 +15,8 @@
 
 4. **Instalar a extensão Code Runner**  
    - No VS Code, vá até a aba de extensões e procure por **Code Runner**. Instale a extensão.
+5. **Inisira uma senha de administrador**
+   - No arquivo senhaADM.txt insira a senha no campo requisitado.
 
-5. **Rode o projeto**
+6. **Rode o projeto**
    - Vá até main.c e no canto superior direito clique em **Run code**.
